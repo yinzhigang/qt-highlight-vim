@@ -1391,6 +1391,7 @@ syn keyword qtStatement emit
 " Qt Type
 syn keyword qtType qint8 quint8 qint16 quint16 qint32 quint32 qint64 quint64
 syn keyword qtType quintptr
+syn keyword qtType uchar ushort uint ulong
 
 
 " Highlight
